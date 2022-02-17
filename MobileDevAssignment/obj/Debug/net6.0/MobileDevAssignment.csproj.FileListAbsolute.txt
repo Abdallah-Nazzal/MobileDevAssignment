@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\MobileDevAssignment\MobileDevAssignment\obj\Debug\net6.0\MobileDevAssignment.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\MobileDevAssignment\MobileDevAssignment\obj\Debug\net6.0\MobileDevAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\MobileDevAssignment\MobileDevAssignment\obj\Debug\net6.0\MobileDevAssignment.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\MobileDevAssignment\MobileDevAssignment\obj\Debug\net6.0\MobileDevAssignment.AssemblyInfo.cs
+C:\Users\Home\source\repos\MobileDevAssignment\MobileDevAssignment\obj\Debug\net6.0\MobileDevAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\MobileDevAssignment\MobileDevAssignment\bin\Debug\net6.0\MobileDevAssignment.exe
+C:\Users\Home\source\repos\MobileDevAssignment\MobileDevAssignment\bin\Debug\net6.0\MobileDevAssignment.deps.json
+C:\Users\Home\source\repos\MobileDevAssignment\MobileDevAssignment\bin\Debug\net6.0\MobileDevAssignment.runtimeconfig.json
+C:\Users\Home\source\repos\MobileDevAssignment\MobileDevAssignment\bin\Debug\net6.0\MobileDevAssignment.dll
+C:\Users\Home\source\repos\MobileDevAssignment\MobileDevAssignment\bin\Debug\net6.0\ref\MobileDevAssignment.dll
+C:\Users\Home\source\repos\MobileDevAssignment\MobileDevAssignment\bin\Debug\net6.0\MobileDevAssignment.pdb
+C:\Users\Home\source\repos\MobileDevAssignment\MobileDevAssignment\obj\Debug\net6.0\MobileDevAssignment.dll
+C:\Users\Home\source\repos\MobileDevAssignment\MobileDevAssignment\obj\Debug\net6.0\ref\MobileDevAssignment.dll
+C:\Users\Home\source\repos\MobileDevAssignment\MobileDevAssignment\obj\Debug\net6.0\MobileDevAssignment.pdb
+C:\Users\Home\source\repos\MobileDevAssignment\MobileDevAssignment\obj\Debug\net6.0\MobileDevAssignment.genruntimeconfig.cache
